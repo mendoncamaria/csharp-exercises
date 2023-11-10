@@ -1,0 +1,14 @@
+/home/niveus/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject
+/home/niveus/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.deps.json
+/home/niveus/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.runtimeconfig.json
+/home/niveus/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.dll
+/home/niveus/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.pdb
+/home/niveus/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/niveus/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfoInputs.cache
+/home/niveus/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfo.cs
+/home/niveus/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.CoreCompileInputs.cache
+/home/niveus/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.dll
+/home/niveus/CsharpProjects/TestProject/obj/Debug/net7.0/refint/TestProject.dll
+/home/niveus/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.pdb
+/home/niveus/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.genruntimeconfig.cache
+/home/niveus/CsharpProjects/TestProject/obj/Debug/net7.0/ref/TestProject.dll
